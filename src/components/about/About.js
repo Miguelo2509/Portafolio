@@ -1,4 +1,5 @@
 import React from "react";
+import selfie from "../../media/selfie.jpg";
 import "./About.css";
 
 const About = () => {
@@ -6,12 +7,12 @@ const About = () => {
     <div className="about-container">
       <div className="about-img">
         <img
-          src="https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg"
+          src= {selfie}
           alt="about"
         />
       </div>
       <div className="about-desc">
-        <h3>Déjame decirte algo sobre mí</h3>
+        <h3>Déjame contarte algo sobre mí</h3>
         <p>
           Actualmente estoy cursando la tercera etapa del informatorio y realizando
           otros cursos de programación.

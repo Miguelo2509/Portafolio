@@ -1,6 +1,6 @@
 .about-container {
     display: flex;
-    background-color: white;
+    background-color: rgb(231, 236, 206);
     color: black;
     height: 70vh;
     padding: 100px 0 100px 0;
@@ -10,27 +10,28 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 55%;
+    width: 65%;
     padding: 0 100px 0 100px;
   }
   
   .about-desc > h3 {
     margin-bottom: 30px;
-    font-size: 28px;
+    font-size: 30px;
     text-align: justify;
   }
   
   .about-desc > p {
     line-height: 1.5;
+    font-size: 20px;
   }
   
   .about-img {
-    width: 45%;
-    height: 120%;
+    width: 35%;
+    height: 150%;
     display: flex;
     align-self: center;
     overflow: hidden;
-    margin-left: 20px;
+    margin-left: 90px;
   }
   
   @media only screen and (max-width: 960px) {
