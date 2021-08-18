@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.9b85fbb4.chunk.css",
-    "main.js": "/Portafolio/static/js/main.adffb396.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.adffb396.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.cde6faf8.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.cde6faf8.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.f07f6c71.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.f07f6c71.js.map",
     "static/css/2.dab86632.chunk.css": "/Portafolio/static/css/2.dab86632.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/main.9b85fbb4.chunk.css.map": "/Portafolio/static/css/main.9b85fbb4.chunk.css.map",
     "static/js/2.7983df2a.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.7983df2a.chunk.js.LICENSE.txt",
     "static/media/adopcionMascotas.d709878a.jpg": "/Portafolio/static/media/adopcionMascotas.d709878a.jpg",
-    "static/media/coverVideo2.4886036e.mp4": "/Portafolio/static/media/coverVideo2.4886036e.mp4",
+    "static/media/coverVideo.21cad5b0.mp4": "/Portafolio/static/media/coverVideo.21cad5b0.mp4",
     "static/media/obraDonBosco.04ee3587.jpg": "/Portafolio/static/media/obraDonBosco.04ee3587.jpg",
     "static/media/selfie.29da6cad.jpg": "/Portafolio/static/media/selfie.29da6cad.jpg"
   },
@@ -22,6 +22,6 @@
     "static/css/2.dab86632.chunk.css",
     "static/js/2.7983df2a.chunk.js",
     "static/css/main.9b85fbb4.chunk.css",
-    "static/js/main.adffb396.chunk.js"
+    "static/js/main.cde6faf8.chunk.js"
   ]
 }
